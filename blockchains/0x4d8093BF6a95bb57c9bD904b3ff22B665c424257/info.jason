@@ -1,0 +1,9 @@
+    "name": "DOOSH Token",
+    "website": "https://coindoosh.com/dooshtoken",
+    "description": "DOOSH is a stablecoin issued by Coindoosh in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x4d8093BF6a95bb57c9bD904b3ff22B665c424257",
+    "type": "ERC20",
+    "symbol": "DOOSH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4d8093BF6a95bb57c9bD904b3ff22B665c424257"
